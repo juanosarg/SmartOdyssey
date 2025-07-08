@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	<!--     Options     -->
+<SO_FeaturesInThisTile>Features in this tile:</SO_FeaturesInThisTile>
+
+<SO_MutatorMultiplier>Map feature commonality (requires new world)</SO_MutatorMultiplier>
+<SO_MutatorMultiplierTooltip>The commonality of map features in a non-landmark map will be multiplied by this number (20 means a given map feature will be 20 times as common). Requires making a new planet!</SO_MutatorMultiplierTooltip>
+<SO_LandmarkMutatorMultiplier>Landmark feature commonality (requires new world)</SO_LandmarkMutatorMultiplier>
+<SO_LandmarkMutatorMultiplierTooltip>The commonality of map features in landmark maps will be multiplied by this number (20 means a given landmark feature will be 20 times as common). Requires making a new planet!</SO_LandmarkMutatorMultiplierTooltip>
+<SO_SpecificMutatorCommonalities>Specific mutator commonalities:</SO_SpecificMutatorCommonalities>
+<SO_Reset_Plain>Reset</SO_Reset_Plain>
+</LanguageData>

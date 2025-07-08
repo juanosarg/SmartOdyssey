@@ -1,0 +1,34 @@
+<ModMetaData>
+	<name>Smart Odyssey</name>
+	<author>Sarg Bjornson</author>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<modIconPath IgnoreIfNoMatchingField="True">UI/SmartOdysseyLogo</modIconPath>
+	<modDependencies>
+		<li>
+			<packageId>brrainz.harmony</packageId>
+			<displayName>Harmony</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+			<downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+		</li>
+		<li>
+			<packageId>Ludeon.RimWorld.Odyssey</packageId>
+			<displayName>Odyssey</displayName>
+		</li>
+		
+	</modDependencies>
+	<loadAfter>
+		
+		<li>OskarPotocki.VanillaFactionsExpanded.Core</li>
+	</loadAfter>
+	<packageId>sarg.smartodyssey</packageId>
+	<description>A lightweight mod that allows you to visualize the tile mutators of a selected tile in the world map, with custom icons for each mutator.
+	
+It also adds mod options to both individually and globally tweak mutator and landmark commonalities, so you can make a world that is as vanilla or as wacky as desired!
+	
+This mod is included in Alpha Biomes.</description>
+	<incompatibleWith>
+		<li>sarg.alphabiomes</li>
+	</incompatibleWith>
+</ModMetaData>
