@@ -14,6 +14,9 @@ namespace SmartOdyssey
 		{
 			DefOfHelper.EnsureInitializedInCtor(typeof(InternalDefOf));
 		}
-		
-	}
+
+        [MayRequire("m00nl1ght.GeologicalLandforms")]
+        public static TileMutatorDef GL_RiverTerrain;
+
+    }
 }

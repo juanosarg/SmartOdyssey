@@ -43,6 +43,10 @@ namespace SmartOdyssey
                     if (tile != null)
                     {
                         List<TileMutatorDef> mutators = tile.Mutators?.ToList();
+                        if (mutators.Contains(InternalDefOf.GL_RiverTerrain))
+                        {
+                            mutators.Remove(InternalDefOf.GL_RiverTerrain);
+                        }
 
                         InfoRectProps.height = (((mutators.Count - 1) / 4) + 1) * 100 + 70;
 
