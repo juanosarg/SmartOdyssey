@@ -525,6 +525,10 @@
 				<mutator>GL_Valley</mutator>
 				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_Valley</icon>
 			</li>
+			<li MayRequire="m00nl1ght.GeologicalLandforms.BiomeTransitions">
+				<mutator>GL_BiomeTransitions</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_MixedBiomesMod</icon>
+			</li>
 			
 		</mutatorIcons>
 	</SmartOdyssey.MutatorIconDef>
