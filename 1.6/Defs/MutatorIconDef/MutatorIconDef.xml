@@ -718,8 +718,28 @@
 				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_LessSolarPower</icon>
 			</li>
 			<li MayRequire="VanillaExpanded.VExplorationE">
-				<mutator>VEE_RuinedFarmland</mutator>
+				<mutator>VEE_AbandonedFarmland</mutator>
 				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_RuinedFarmland</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_BombardedSurface</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_BombardedSurface</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_Sinkholes</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_Sinkholes</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_DriftwoodShore</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_DriftwoodShore</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_AlluvialFan</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_AlluvialFan</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE,VanillaExpanded.HelixienGas">
+				<mutator>VEE_UndergroundGasDeposits</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_UndergroundGasDeposits</icon>
 			</li>
 			<!-- Geological Landforms -->
 			<li MayRequire="m00nl1ght.GeologicalLandforms">
