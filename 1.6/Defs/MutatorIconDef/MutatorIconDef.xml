@@ -749,6 +749,14 @@
 				<mutator>VEE_StagnantRivulet</mutator>
 				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_StagnantRivulet</icon>
 			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_AnimaSoils</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_AnimaSoils</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_AnimaFlora</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_AnimaFlora</icon>
+			</li>
 			<!-- Geological Landforms -->
 			<li MayRequire="m00nl1ght.GeologicalLandforms">
 				<mutator>GL_Archipelago</mutator>
