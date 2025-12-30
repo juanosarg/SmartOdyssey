@@ -754,8 +754,28 @@
 				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_AnimaSoils</icon>
 			</li>
 			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_AnimaSoils_Coast</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_AnimaSoils</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
 				<mutator>VEE_AnimaFlora</mutator>
 				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_AnimaFlora</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_AnimaFauna</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_AnimaFauna</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_JadeChunks</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_JadeiteChunks</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_RagingWind</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_RagingWind</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_SulfuricRiver</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_SulfuricRiver</icon>
 			</li>
 			<!-- Geological Landforms -->
 			<li MayRequire="m00nl1ght.GeologicalLandforms">
