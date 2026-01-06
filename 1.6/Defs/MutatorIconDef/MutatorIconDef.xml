@@ -777,6 +777,26 @@
 				<mutator>VEE_SulfuricRiver</mutator>
 				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_SulfuricRiver</icon>
 			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE,VanillaExpanded.VFEPower">
+				<mutator>VEE_StrongerTides</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_StrongerTides</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_LargeRiverBanks</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_LargeRiverBanks</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE,VanillaExpanded.VPlantsESucculents">
+				<mutator>VEE_WildSucculents</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_WildSucculents</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_FrequentAuroras</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_FrequentAuroras</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_StoneForest</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_StoneForest</icon>
+			</li>
 			<!-- Geological Landforms -->
 			<li MayRequire="m00nl1ght.GeologicalLandforms">
 				<mutator>GL_Archipelago</mutator>
