@@ -837,6 +837,14 @@
 				<mutator>VEE_RedDesertPlants</mutator>
 				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_RedDesertPlants</icon>
 			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_VolcanicSandDesert</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_VolcanicDesert</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_VolcanicSandDesertFlora</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_HoodiaCacti</icon>
+			</li>
 			<!-- Geological Landforms -->
 			<li MayRequire="m00nl1ght.GeologicalLandforms">
 				<mutator>GL_Archipelago</mutator>
