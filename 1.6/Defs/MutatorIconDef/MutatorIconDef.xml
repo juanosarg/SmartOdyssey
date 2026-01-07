@@ -821,6 +821,22 @@
 				<mutator>VEE_Cenotes</mutator>
 				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_Cenotes</icon>
 			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_BasaltCape</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_BasaltCape</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_ObsidianChunks</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_ObsidianChunks</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_RedDesert</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_RedDesert</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_RedDesertPlants</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_RedDesertPlants</icon>
+			</li>
 			<!-- Geological Landforms -->
 			<li MayRequire="m00nl1ght.GeologicalLandforms">
 				<mutator>GL_Archipelago</mutator>
