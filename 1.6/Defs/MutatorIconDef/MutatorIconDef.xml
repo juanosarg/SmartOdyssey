@@ -845,6 +845,26 @@
 				<mutator>VEE_VolcanicSandDesertFlora</mutator>
 				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_HoodiaCacti</icon>
 			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_PermafrostBasin</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_PermafrostBasin</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_QuicksandDunes</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_QuicksandDunes</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_PebbleDunes</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_PebbleDunes</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_LittoralDunes</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_LittoralDunes</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_RisingWaters</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_RisingWaters</icon>
+			</li>
 			<!-- Geological Landforms -->
 			<li MayRequire="m00nl1ght.GeologicalLandforms">
 				<mutator>GL_Archipelago</mutator>
