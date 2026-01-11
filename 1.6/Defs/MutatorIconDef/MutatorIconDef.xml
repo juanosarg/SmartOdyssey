@@ -873,6 +873,10 @@
 				<mutator>VEE_MineableComponentSpacer</mutator>
 				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_AdvancedComponents</icon>
 			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_Mycelium</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_Mycelium</icon>
+			</li>
 			<!-- Geological Landforms -->
 			<li MayRequire="m00nl1ght.GeologicalLandforms">
 				<mutator>GL_Archipelago</mutator>
