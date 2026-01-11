@@ -865,6 +865,14 @@
 				<mutator>VEE_RisingWaters</mutator>
 				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_RisingWaters</icon>
 			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE, Ludeon.RimWorld.Anomaly">
+				<mutator>VEE_FleshPits</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_Fleshpits</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_MineableComponentSpacer</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_AdvancedComponents</icon>
+			</li>
 			<!-- Geological Landforms -->
 			<li MayRequire="m00nl1ght.GeologicalLandforms">
 				<mutator>GL_Archipelago</mutator>
