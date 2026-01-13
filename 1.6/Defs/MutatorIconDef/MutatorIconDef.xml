@@ -877,6 +877,18 @@
 				<mutator>VEE_Mycelium</mutator>
 				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_Mycelium</icon>
 			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_PlentifulGrass</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_PlentifulGrass</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_IceSpires</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_IceSpires</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE,VanillaExpanded.VPlantsEMore">
+				<mutator>VEE_WildCereals</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_WildCereals</icon>
+			</li>
 			<!-- Geological Landforms -->
 			<li MayRequire="m00nl1ght.GeologicalLandforms">
 				<mutator>GL_Archipelago</mutator>
