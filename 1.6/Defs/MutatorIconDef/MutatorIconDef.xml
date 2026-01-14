@@ -766,6 +766,10 @@
 				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_AnimaFauna</icon>
 			</li>
 			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_JadeiteMountains</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_JadeiteMountains</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
 				<mutator>VEE_JadeChunks</mutator>
 				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_JadeiteChunks</icon>
 			</li>
