@@ -885,9 +885,21 @@
 				<mutator>VEE_IceSpires</mutator>
 				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_IceSpires</icon>
 			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_Megafauna</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_Megafauna</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_MechanoidShipChunks</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_MechChunks</icon>
+			</li>
 			<li MayRequire="VanillaExpanded.VExplorationE,VanillaExpanded.VPlantsEMore">
 				<mutator>VEE_WildCereals</mutator>
 				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_WildCereals</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_GlacialMoraine</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_GlacialMoraine</icon>
 			</li>
 			<!-- Geological Landforms -->
 			<li MayRequire="m00nl1ght.GeologicalLandforms">
