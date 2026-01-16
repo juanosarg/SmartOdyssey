@@ -905,6 +905,42 @@
 				<mutator>VEE_GlacialMoraine</mutator>
 				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_GlacialMoraine</icon>
 			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_TropicalBeachFlora</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_TropicalBeachFlora</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_TropicalBeach</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_TropicalBeach</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_Mossy</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_Mossy</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_LaurelForest</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_LaurelForest</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_Moor</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_Moor</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_MoorFlora</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_MoorFlora</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_LushLavaFields</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_LushLavaFields</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_FirewoodTrees</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_FirewoodTrees</icon>
+			</li>
+			<li MayRequire="VanillaExpanded.VExplorationE">
+				<mutator>VEE_DeepSnow</mutator>
+				<icon>UI/Icons/AB_MutatorIcons/AB_MutatorIcon_DeepSnow</icon>
+			</li>
 			<!-- Geological Landforms -->
 			<li MayRequire="m00nl1ght.GeologicalLandforms">
 				<mutator>GL_Archipelago</mutator>
